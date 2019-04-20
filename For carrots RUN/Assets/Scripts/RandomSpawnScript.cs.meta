@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9fc0d47fe1b533244855172eaa09f133
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Carrot: {fileID: 1341228148380950, guid: e508d13de3e345d4f9a15c1d8b09366d, type: 2}
+  - Carrot1: {fileID: 1204215206177106, guid: 4bccc6e51c4c5964ead93bf10f4e2797, type: 2}
+  - Carrot2: {fileID: 1839689183540742, guid: 1e785f6997219744eaa2a8e0bb382521, type: 2}
+  - Carrot3: {fileID: 1143228133563010, guid: 642c26aade00f5d49b7800c870272ba0, type: 2}
+  - Carrot4: {fileID: 1991365637118646, guid: 22e831b0741f33748b349280d49845c2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
